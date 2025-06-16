@@ -1,2 +1,2 @@
 # Operating-System-Lab-Project
-Process Scheduling Simulation
+Process Scheduling Simulation.
